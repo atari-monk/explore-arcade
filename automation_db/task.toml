@@ -32,16 +32,16 @@ requirements = [ "create and display sprites", "load sprite from image", "positi
 context_files = [ 4,]
 save_file = 4
 assigned_to = "implementer"
-status = "implementing"
+status = "tested"
 
 [[task]]
 feature = "learn_skill"
 name = "keyboard_input"
 requirements = [ "handle keyboard events", "move object with keyboard", "detect key presses and releases", "simple keyboard controls",]
-context_files = [ 1,]
-save_file = 1
+context_files = [ 5,]
+save_file = 5
 assigned_to = "implementer"
-status = "off"
+status = "tested"
 
 [[task]]
 feature = "learn_skill"

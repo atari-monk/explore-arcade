@@ -25,3 +25,10 @@ feature = "learn_skill"
 task = "sprite_basics"
 file_name = "sprite_basics.py"
 path = "src"
+
+[[file]]
+id = 5
+feature = "learn_skill"
+task = "keyboard_input"
+file_name = "keyboard_input.py"
+path = "src"
