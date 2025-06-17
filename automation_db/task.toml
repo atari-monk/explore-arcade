@@ -68,7 +68,7 @@ requirements = [ "detect collisions between objects", "use hitboxes", "simple co
 context_files = [ 8,]
 save_file = 8
 assigned_to = "implementer"
-status = "off"
+status = "tested"
 
 [[task]]
 feature = "learn_skill"
