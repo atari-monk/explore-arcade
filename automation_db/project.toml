@@ -1,0 +1,5 @@
+[project]
+name = "explore-arcade"
+path = "C:\\atari-monk\\code\\explore-arcade"
+dependencies = [ "arcade",]
+requirements = [ "self teaching arcade", "snippets of code teaching skill needed to develop with arcade"]

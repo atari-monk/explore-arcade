@@ -1,0 +1,8 @@
+[[feature]]
+name = "plan_project"
+requirements = [
+    "goal of this project is to learn arcade",
+    "each task should learn new skill",
+    "create objects for next task"
+]
+

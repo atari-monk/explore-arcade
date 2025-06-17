@@ -1,0 +1,120 @@
+[[task]]
+feature = "plan_project"
+name = "plan_task"
+requirements = [ "plan task to teach me new arcade skill", "use toml objects to define it",]
+context_files = [ 1,]
+save_file = 1
+assigned_to = "planner"
+status = "off"
+
+[[task]]
+feature = "plan_project"
+name = "window_setup"
+requirements = [
+    "create basic arcade window",
+    "set window dimensions",
+    "set window title",
+    "set background color"
+]
+context_files = [1]
+save_file = 1
+assigned_to = "implementer"
+status = "pending"
+
+[[task]]
+feature = "plan_project"
+name = "draw_shapes"
+requirements = [
+    "draw basic shapes",
+    "learn arcade shape primitives",
+    "draw circles, rectangles, lines",
+    "set colors and positions"
+]
+context_files = [1]
+save_file = 1
+assigned_to = "implementer"
+status = "off"
+
+[[task]]
+feature = "plan_project"
+name = "sprite_basics"
+requirements = [
+    "create and display sprites",
+    "load sprite from image",
+    "position and scale sprites",
+    "basic sprite properties"
+]
+context_files = [1]
+save_file = 1
+assigned_to = "implementer"
+status = "off"
+
+[[task]]
+feature = "plan_project"
+name = "keyboard_input"
+requirements = [
+    "handle keyboard events",
+    "move object with keyboard",
+    "detect key presses and releases",
+    "simple keyboard controls"
+]
+context_files = [1]
+save_file = 1
+assigned_to = "implementer"
+status = "off"
+
+[[task]]
+feature = "plan_project"
+name = "mouse_interaction"
+requirements = [
+    "handle mouse events",
+    "detect mouse clicks",
+    "get mouse position",
+    "interact with objects using mouse"
+]
+context_files = [1]
+save_file = 1
+assigned_to = "implementer"
+status = "off"
+
+[[task]]
+feature = "plan_project"
+name = "animation_basics"
+requirements = [
+    "create simple animations",
+    "use sprite lists",
+    "animate sprite properties",
+    "basic frame-based animation"
+]
+context_files = [1]
+save_file = 1
+assigned_to = "implementer"
+status = "off"
+
+[[task]]
+feature = "plan_project"
+name = "collision_detection"
+requirements = [
+    "detect collisions between objects",
+    "use hitboxes",
+    "simple collision responses",
+    "sprite collision methods"
+]
+context_files = [1]
+save_file = 1
+assigned_to = "implementer"
+status = "off"
+
+[[task]]
+feature = "plan_project"
+name = "scene_management"
+requirements = [
+    "create multiple scenes",
+    "switch between scenes",
+    "scene lifecycle methods",
+    "basic game flow"
+]
+context_files = [1]
+save_file = 1
+assigned_to = "implementer"
+status = "off"

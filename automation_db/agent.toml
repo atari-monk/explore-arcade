@@ -1,0 +1,7 @@
+[[agent]]
+role = "planner"
+requirements = [ "use toml model to plan project"]
+
+[[agent]]
+role = "implementer"
+requirements = [ "implement code based on requirements"]
