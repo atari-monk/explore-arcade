@@ -29,10 +29,10 @@ status = "tested"
 feature = "learn_skill"
 name = "sprite_basics"
 requirements = [ "create and display sprites", "load sprite from image", "position and scale sprites", "basic sprite properties",]
-context_files = [ 1,]
-save_file = 1
+context_files = [ 4,]
+save_file = 4
 assigned_to = "implementer"
-status = "off"
+status = "implementing"
 
 [[task]]
 feature = "learn_skill"

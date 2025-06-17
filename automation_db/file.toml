@@ -18,3 +18,10 @@ feature = "learn_skill"
 task = "draw_shapes"
 file_name = "draw_shapes.py"
 path = "src"
+
+[[file]]
+id = 4
+feature = "learn_skill"
+task = "sprite_basics"
+file_name = "sprite_basics.py"
+path = "src"
