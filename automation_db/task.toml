@@ -59,7 +59,7 @@ requirements = [ "create simple animations", "use sprite lists", "animate sprite
 context_files = [ 7,]
 save_file = 7
 assigned_to = "implementer"
-status = "off"
+status = "tested"
 
 [[task]]
 feature = "learn_skill"
