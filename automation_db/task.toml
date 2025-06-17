@@ -47,17 +47,17 @@ status = "tested"
 feature = "learn_skill"
 name = "mouse_interaction"
 requirements = [ "handle mouse events", "detect mouse clicks", "get mouse position", "interact with objects using mouse",]
-context_files = [ 1,]
-save_file = 1
+context_files = [ 6,]
+save_file = 6
 assigned_to = "implementer"
-status = "off"
+status = "tested"
 
 [[task]]
 feature = "learn_skill"
 name = "animation_basics"
 requirements = [ "create simple animations", "use sprite lists", "animate sprite properties", "basic frame-based animation",]
-context_files = [ 1,]
-save_file = 1
+context_files = [ 7,]
+save_file = 7
 assigned_to = "implementer"
 status = "off"
 
@@ -65,8 +65,8 @@ status = "off"
 feature = "learn_skill"
 name = "collision_detection"
 requirements = [ "detect collisions between objects", "use hitboxes", "simple collision responses", "sprite collision methods",]
-context_files = [ 1,]
-save_file = 1
+context_files = [ 8,]
+save_file = 8
 assigned_to = "implementer"
 status = "off"
 
@@ -74,8 +74,8 @@ status = "off"
 feature = "learn_skill"
 name = "scene_management"
 requirements = [ "create multiple scenes", "switch between scenes", "scene lifecycle methods", "basic game flow",]
-context_files = [ 1,]
-save_file = 1
+context_files = [ 9,]
+save_file = 9
 assigned_to = "implementer"
 status = "off"
 

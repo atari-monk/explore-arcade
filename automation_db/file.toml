@@ -32,3 +32,31 @@ feature = "learn_skill"
 task = "keyboard_input"
 file_name = "keyboard_input.py"
 path = "src"
+
+[[file]]
+id = 6
+feature = "learn_skill"
+task = "mouse_interaction"
+file_name = "mouse_interaction.py"
+path = "src"
+
+[[file]]
+id = 7
+feature = "learn_skill"
+task = "animation_basics"
+file_name = "animation_basics.py"
+path = "src"
+
+[[file]]
+id = 8
+feature = "learn_skill"
+task = "collision_detection"
+file_name = "collision_detection.py"
+path = "src"
+
+[[file]]
+id = 9
+feature = "learn_skill"
+task = "scene_management"
+file_name = "scene_management.py"
+path = "src"
