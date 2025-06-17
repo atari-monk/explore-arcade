@@ -6,3 +6,8 @@ requirements = [
     "create objects for next task"
 ]
 
+[[feature]]
+name = "learn_skill"
+requirements = [
+    "learn new usefull arcade skill"
+]

@@ -1,0 +1,7 @@
+__pycache__
+venv
+explore-arcade.egg-info
+.pytest_cache
+.coverage
+.ruff_cache
+.mypy_cache

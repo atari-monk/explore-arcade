@@ -4,3 +4,10 @@ feature = "plan_project"
 task = "plan_task"
 file_name = "merged.toml"
 path = "src"
+
+[[file]]
+id = 2
+feature = "learn_skill"
+task = "plan_task"
+file_name = "window_setup.py"
+path = "src"
