@@ -8,6 +8,13 @@ path = "src"
 [[file]]
 id = 2
 feature = "learn_skill"
-task = "plan_task"
+task = "window_setup"
 file_name = "window_setup.py"
+path = "src"
+
+[[file]]
+id = 3
+feature = "learn_skill"
+task = "draw_shapes"
+file_name = "draw_shapes.py"
 path = "src"

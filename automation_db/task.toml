@@ -20,10 +20,10 @@ status = "tested"
 feature = "learn_skill"
 name = "draw_shapes"
 requirements = [ "draw basic shapes", "learn arcade shape primitives", "draw circles, rectangles, lines", "set colors and positions",]
-context_files = [ 1,]
-save_file = 1
+context_files = [ 3,]
+save_file = 3
 assigned_to = "implementer"
-status = "off"
+status = "tested"
 
 [[task]]
 feature = "learn_skill"
