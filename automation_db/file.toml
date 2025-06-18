@@ -88,3 +88,17 @@ feature = "learn_by_arcade_page"
 task = "template_platformer"
 file_name = "template_platformer.py"
 path = "src/learn_by_arcade_page"
+
+[[file]]
+id = 14
+feature = "learn_by_arcade_page"
+task = "happy_face"
+file_name = "happy_face.py"
+path = "src/learn_by_arcade_page/comments"
+
+[[file]]
+id = 15
+feature = "learn_by_arcade_page"
+task = "happy_face"
+file_name = "happy_face.py"
+path = "src/learn_by_arcade_page"

@@ -9,6 +9,7 @@ requirements = [
 [[feature]]
 name = "learn_by_ai"
 requirements = [
+    "in git history it is called learn_skill, here renamed to learn_by_ai",
     "learn new usefull arcade skill using ai chats"
 ]
 
