@@ -86,5 +86,14 @@ requirements = [ "remove all comments",]
 context_files = [ 10,]
 save_file = 11
 assigned_to = "implementer"
-status = "implementing"
+status = "tested"
+
+[[task]]
+feature = "learn_by_arcade_page"
+name = "template_platformer"
+requirements = [ "remove all comments",]
+context_files = [ 12,]
+save_file = 13
+assigned_to = "implementer"
+status = "tested"
 

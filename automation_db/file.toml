@@ -7,56 +7,56 @@ path = "src/learn_by_ai"
 
 [[file]]
 id = 2
-feature = "learn_skill"
+feature = "learn_by_ai"
 task = "window_setup"
 file_name = "window_setup.py"
 path = "src/learn_by_ai"
 
 [[file]]
 id = 3
-feature = "learn_skill"
+feature = "learn_by_ai"
 task = "draw_shapes"
 file_name = "draw_shapes.py"
 path = "src/learn_by_ai"
 
 [[file]]
 id = 4
-feature = "learn_skill"
+feature = "learn_by_ai"
 task = "sprite_basics"
 file_name = "sprite_basics.py"
 path = "src/learn_by_ai"
 
 [[file]]
 id = 5
-feature = "learn_skill"
+feature = "learn_by_ai"
 task = "keyboard_input"
 file_name = "keyboard_input.py"
 path = "src/learn_by_ai"
 
 [[file]]
 id = 6
-feature = "learn_skill"
+feature = "learn_by_ai"
 task = "mouse_interaction"
 file_name = "mouse_interaction.py"
 path = "src/learn_by_ai"
 
 [[file]]
 id = 7
-feature = "learn_skill"
+feature = "learn_by_ai"
 task = "animation_basics"
 file_name = "animation_basics.py"
 path = "src/learn_by_ai"
 
 [[file]]
 id = 8
-feature = "learn_skill"
+feature = "learn_by_ai"
 task = "collision_detection"
 file_name = "collision_detection.py"
 path = "src/learn_by_ai"
 
 [[file]]
 id = 9
-feature = "learn_skill"
+feature = "learn_by_ai"
 task = "scene_management"
 file_name = "scene_management.py"
 path = "src/learn_by_ai"
@@ -65,8 +65,8 @@ path = "src/learn_by_ai"
 id = 10
 feature = "learn_by_arcade_page"
 task = "starting_template"
-file_name = "starting_template_comments.py"
-path = "src/learn_by_arcade_page"
+file_name = "starting_template.py"
+path = "src/learn_by_arcade_page/comments"
 
 [[file]]
 id = 11
@@ -75,3 +75,16 @@ task = "starting_template"
 file_name = "starting_template.py"
 path = "src/learn_by_arcade_page"
 
+[[file]]
+id = 12
+feature = "learn_by_arcade_page"
+task = "template_platformer"
+file_name = "template_platformer.py"
+path = "src/learn_by_arcade_page/comments"
+
+[[file]]
+id = 13
+feature = "learn_by_arcade_page"
+task = "template_platformer"
+file_name = "template_platformer.py"
+path = "src/learn_by_arcade_page"
